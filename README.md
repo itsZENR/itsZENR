@@ -15,8 +15,8 @@ DevOps-циклом (Docker, CI/CD, Nginx, Linux).
   разработан и выведён в прод в одиночку.
 
 ### Проекты
-- **ChessAutoChess** — онлайн-игра, фуллстек (Django 5 + DRF + Vue.js + Docker),
-  живой: https://chess-auto-chess.ru
+- **ChessAutoChess** — онлайн auto-chess (командный проект): мой бэкенд на Django 5 +
+  DRF и интеграция шахматного движка Stockfish, Docker.
 - **FastAPI + RabbitMQ** — пример сервиса с очередями сообщений.
 - Соревнования по ML (Kaggle, OZON E-CUP).
 
