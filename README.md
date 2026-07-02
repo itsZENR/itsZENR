@@ -21,4 +21,4 @@ DevOps-циклом (Docker, CI/CD, Nginx, Linux).
 - Соревнования по ML (Kaggle, OZON E-CUP).
 
 ### Контакты
-Telegram: @zenr0 · Email: zenrbalahnine@gmail.com
+Telegram: @zenr0
