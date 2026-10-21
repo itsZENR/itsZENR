@@ -1,6 +1,6 @@
 # Евгений Балахнин — Python Backend Developer
 
-Backend-разработчик на Python. ~2 года коммерческого опыта + собственные продукты.
+Backend-разработчик на Python.
 Специализация — бэкенд-сервисы и интеграции на Django/DRF и FastAPI, с полным
 DevOps-циклом (Docker, CI/CD, Nginx, Linux).
 
